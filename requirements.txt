@@ -1,0 +1,27 @@
+# Project requirements for GenTA
+# Core scientific and ML
+numpy
+pandas
+scipy
+
+# Deep learning and Hugging Face
+torch
+transformers
+
+# Image and video handling
+Pillow
+opencv-python
+
+# Utilities
+tqdm
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning utilities
+scikit-learn
+
+# Testing
+pytest
+
